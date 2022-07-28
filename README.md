@@ -1,3 +1,6 @@
 # Ingroup Diversity
 Ingroup-Biased Copying Promotes Cultural Diversity and Complexity
-http://tinyurl.com/ingroupdiversity
+
+Paper: http://tinyurl.com/ingroupdiversity
+
+Modify parameters in main.py then run it.
