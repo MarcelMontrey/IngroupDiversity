@@ -11,7 +11,7 @@ Studies have found that when innovation involves recombining cultural traits, pa
 Modify the parameters in `main.py` and then run it.
 
 # License
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 # Contact
 Marcel Montrey - marcel.montrey@gmail.com
